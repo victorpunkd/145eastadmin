@@ -1,3 +1,13 @@
 .App {
   text-align: center;
 }
+
+.button {
+  width: 100%;
+  font-size: 15px;
+  font-weight: 600;
+  /* color: #efc87c !important; */
+  color: white;
+  padding: 1% 0%;
+  font-family: "Varela", sans-serif;
+}

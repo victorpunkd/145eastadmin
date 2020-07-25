@@ -45,12 +45,11 @@ export class Products extends Component {
     else {
       return (
         <div>
-          <div className="w-xlarge">Products Page</div>
+          <div className="w3-xlarge">Products Page</div>
           <div className="w3-row" style={{ marginTop: "30px" }}>
-            <div style={{ marginTop: "30px" }}>
-              {console.log(this.state.data)}
+            <div>
               {this.state.data.map((data) => (
-                <ProductCard data={data} />
+                <ProductCard data={data} key={data.product_id} />
               ))}
             </div>
           </div>

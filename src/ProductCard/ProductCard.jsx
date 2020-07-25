@@ -4,7 +4,7 @@ import "./ProductCard.css";
 export class ProductCard extends Component {
   render() {
     return (
-      <div className="w3-quarter w3-row productCardContainer ">
+      <div className="w3-quarter w3-row productCardContainer">
         <div className="content">
           <div className="w3-col s3">
             <img

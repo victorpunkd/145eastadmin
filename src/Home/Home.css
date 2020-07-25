@@ -1,0 +1,21 @@
+.homeContainer {
+  width: 100%;
+}
+
+.welcomeMessage {
+  margin-top: 70%;
+  font-size: 20px;
+}
+
+.pageLinks {
+  margin-top: 20px;
+  width: 100%;
+}
+
+.linkToPage {
+  font-size: 15px;
+  color: #efc87c;
+  font-weight: 600;
+  cursor: pointer;
+  padding: 1% 1%;
+}
