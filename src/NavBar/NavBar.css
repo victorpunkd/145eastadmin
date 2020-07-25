@@ -1,0 +1,9 @@
+.navBar {
+  font-family: "Ubuntu", sans-serif;
+  letter-spacing: normal !important;
+}
+
+.logo {
+  height: 28px;
+  width: 100px;
+}

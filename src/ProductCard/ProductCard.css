@@ -1,0 +1,14 @@
+.productCardContainer {
+  margin-top: 1%;
+  border-bottom: 1px solid gray;
+  padding: 0.5% 0.5%;
+}
+
+.content {
+  height: 100%;
+}
+
+.productImage {
+  width: 100px;
+  height: 150px;
+}
